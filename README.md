@@ -36,11 +36,15 @@
 
 **_21/06/2025: "_** "Even if you're on the right track, you'll get run over if you just sit there."- **Will Rogers**
 
+![WillRogers](/Images/Will-Rogers.jpg)
+
 **_17/06/2025: "_** Never, never tell them. Try and remember that. Never tell anyone anything ever. Never tell anyone anything again." - **Ernest Hemingway, <i>The Garden Of Eden**</i>
 
 ![ErnestHemingway](/Images/ernest-hemingway.webp)
 
 **_07/06/2025: “_** "Your personality creates your personal reality, and our personality is made up of how you think, act and feel” - **Dr Joe Dispenza**
+
+![JoeDispenza](/Images/Joe-Dispenza-scaled.jpg)
 
 **_07/06/2025:_** "We are what we repeatedly do . Excellence then, is not an act but a habit.” - **Aristotle**
 
