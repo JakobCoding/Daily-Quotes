@@ -10,6 +10,8 @@
 
 **_01/07/2025:_** “Working hard for something we don’t care about is called stress: Working hard for something we love is called passion.” - **Simon Sinek**
 
+![SimonSinek](/Images/Simon_Sinek.jpg)
+
 **_30/06/2025:_** “An algorithm is just a set of instructions, the question is how specific and precise can you be with your instructions.” - **Jake Chalmers**
 
 **_29/07/2025:_** “In seeking happiness for others, you will find it in yourself.” - **Unknown**
@@ -22,25 +24,37 @@
 
 **_26/06/2025:_** “The only way to get good a skateboarding, is by skateboarding” - **Jake Chalmers - <i>This definitely relates to learning coding...**</i>
 
-**_25/06/2025:_** "Life is a constant balance between giving into the ease of distraction or overcoming the pain of discipline”. **James Clear**
+**_25/06/2025:_** "Life is a constant balance between giving into the ease of distraction or overcoming the pain of discipline.” - **James Clear**
 
-**_24/06/2025:_** "To err is human, to forgive, divine” - **Alexander Pope**
+![JamesClear](/Images/James-clear.png)
+
+**_24/06/2025:_** "To err is human, to forgive, divine.” - **Alexander Pope**
 
 **_22/06/2025:_** "The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards.”- **Gene Spafford**
 
+![GeneSpafford](/Images/genne%20spafford.jpg)
+
 **_21/06/2025: "_** "Even if you're on the right track, you'll get run over if you just sit there."- **Will Rogers**
 
-**_17/06/2025: "_** Never, never tell them. Try and remember that. Never tell anyone anything ever. Never tell anyone anything again." - **Ernest Hemingway, from The Garden Of Eden**
+**_17/06/2025: "_** Never, never tell them. Try and remember that. Never tell anyone anything ever. Never tell anyone anything again." - **Ernest Hemingway, <i>The Garden Of Eden**</i>
+
+![ErnestHemingway](/Images/ernest-hemingway.webp)
 
 **_07/06/2025: “_** "Your personality creates your personal reality, and our personality is made up of how you think, act and feel” - **Dr Joe Dispenza**
 
 **_07/06/2025:_** "We are what we repeatedly do . Excellence then, is not an act but a habit.” - **Aristotle**
 
+![aristotle](/Images/Aristotle.jpg)
+
 **_06/06/2025:_** “here’s no shortage of remarkable ideas; what’s missing is the will to execute them” - **Seth Godin**
 
 **_05/06/2025:_** “Good habits are hard to form, but easy to live with. Bad habits are easy to form but hard to live with. - **Brian Tracey**
 
+![BrianTracey](/Images/Brian-Tracy.jpg)
+
 **_26/05/2025:_** “Get comfortable with ambiguity.” - **Quincy Larson**
+
+![QuinceyLarson](/Images/Quincey%20Larson.png)
 
 **_26/05/2025:_** “Perfection is the enemy of progress" - **Unknown**
 
@@ -50,6 +64,10 @@
 
 **_18/05/2025_:** “A winner is a dreamer who never gives up!” **Nelson Mandela**
 
-**_17/05/2025:_** “I have no special talents, I am only passionately curious**Albert Einstein**
+![nelsonmandela](/Images/nelson-mandela.jpg)
+
+**_17/05/2025:_** “I have no special talents, I am only passionately curious." - **Albert Einstein**
+
+![WackyAlbert](/Images/WackyAlbert.jpg)
 
 **_16/05/2025:_** "Life is like riding a bicycle. To keep your balance, you must keep moving - **Albert Einstein**
