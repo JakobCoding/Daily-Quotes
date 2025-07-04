@@ -2,6 +2,10 @@
 
 ![images](/Images/BookShelf.jpg)
 
+**_04/07/2025:_** "Well done is better than well said." - **Benjamin Franklin**
+
+![BenjaminFranklin](/Images/benjaminFranklin.jpeg)
+
 **_03/07/2025:_** “We act as though comfort and luxury were the chief requirements of life, When all the we need to make us happy is something to be enthusiastic about.” - **Albert Einstein**
 
 ![Albert](/Images/Albert%20Einstein.jpg)
