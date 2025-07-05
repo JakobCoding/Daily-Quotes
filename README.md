@@ -2,6 +2,10 @@
 
 ![images](/Images/BookShelf.jpg)
 
+**_05/07/2025:_** "Travel and tell no one, live a true love story and tell no one, live happily and tell no one, people ruin beautiful things." - **Kahlil gibran**
+
+![kahilgibran](/Images/kahil_gibran.jpg)
+
 **_04/07/2025:_** "Well done is better than well said." - **Benjamin Franklin**
 
 ![BenjaminFranklin](/Images/benjaminFranklin.jpeg)
