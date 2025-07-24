@@ -2,6 +2,10 @@
 
 ![images](/Images/BookShelf.jpg)
 
+**_24/07/2025:_** "Acceptance of what has happened is the first step in overcoming the consequences of any misfortune." - **William James**
+
+![William James](/Images/WillamJames.jpg)
+
 **_05/07/2025:_** "Travel and tell no one, live a true love story and tell no one, live happily and tell no one, people ruin beautiful things." - **Kahlil gibran**
 
 ![kahilgibran](/Images/kahil_gibran.jpg)
