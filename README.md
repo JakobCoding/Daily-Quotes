@@ -2,6 +2,10 @@
 
 ![images](/Images/BookShelf.jpg)
 
+**_23/07/2025:_** "If an action will take less than two minutes, it should be done at the moment it is defined." - **David Allen** 
+
+![David Allen](/Images/DavidAllen.jpg)
+
 **_23/07/2025:_** "The Journey of a thousand miles begins with one step." - **Lao Tzu** 
 
 ![Lao Tzu](/Images/Lao%20Tzu.jpg)
