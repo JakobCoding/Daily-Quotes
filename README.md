@@ -2,11 +2,15 @@
 
 ![images](/Images/BookShelf.jpg)
 
-**_24/07/2025:_** "Do not wait: the time will never be 'just right'. Start where you stand, and work with whatever tools you may have at your command and better tools will be found as you go along." - **Nepolean Hill** 
+**_24/07/2025:_** "Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy." - **Dale Carnegie** 
+
+![Dale Carnegie](/Images/dalecarnegie.webp)
+
+**_23/07/2025:_** "Do not wait: the time will never be 'just right'. Start where you stand, and work with whatever tools you may have at your command and better tools will be found as you go along." - **Nepolean Hill** 
 
 ![Napolean Hill](/Images/Who-Is-Napoleon-Hill.jpg)
 
-**_24/07/2025:_** "Acceptance of what has happened is the first step in overcoming the consequences of any misfortune." - **William James**
+**_22/07/2025:_** "Acceptance of what has happened is the first step in overcoming the consequences of any misfortune." - **William James**
 
 ![William James](/Images/WillamJames.jpg)
 
