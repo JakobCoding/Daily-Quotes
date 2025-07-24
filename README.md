@@ -2,6 +2,10 @@
 
 ![images](/Images/BookShelf.jpg)
 
+**_24/07/2025:_** "The Journey of a thousand miles begins with one step." - **Lao Tzu** 
+
+![Lao Tzu](/Images/Lao%20Tzu.jpg)
+
 **_24/07/2025:_** "Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy." - **Dale Carnegie** 
 
 ![Dale Carnegie](/Images/dalecarnegie.webp)
