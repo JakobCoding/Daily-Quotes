@@ -6,6 +6,12 @@
 
 ![David Allen](/Images/DavidAllen.jpg)
 
+**_25/07/2025:_** "You can know all the hard skills and business concepts, but if you don't have the right attitude, the rest doesn't matter. A great attitiude is key to getting ahead in work and in life." - **Edwardo Clemente** 
+
+**_24/07/2025:_** "If an action will take less than two minutes, it should be done at the moment it is defined." - **David Allen** 
+
+![David Allen](/Images/DavidAllen.jpg)
+
 **_23/07/2025:_** "The Journey of a thousand miles begins with one step." - **Lao Tzu** 
 
 ![Lao Tzu](/Images/Lao%20Tzu.jpg)
