@@ -6,6 +6,11 @@
 
 ![Tony Roberts](/Images/TonyRoberts.jpg)
 
+**_27/07/2025:_** "A pessimist sees difficulty in every opportunity. An optimist sees the opportunity in every difficulty." - **Winston Churchill** 
+
+![Tony Roberts](/Images/winstonChurchill.webp)
+
+
 **_26/07/2025:_** "Success is the sum of small efforts, repeated day in and day out." - **Robert Collier** 
 
 ![Robert Collier](/Images/Robert-Collier.webp)
