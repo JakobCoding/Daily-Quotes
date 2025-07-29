@@ -2,9 +2,13 @@
 
 ![images](/Images/BookShelf.jpg)
 
+**_29/07/2025:_** "Knowledge is not power, Knowledge is only potential power. Action is power." - **Tony Roberts** 
+
+![Tony Roberts](/Images/TonyRoberts.jpg)
+
 **_26/07/2025:_** "Success is the sum of small efforts, repeated day in and day out." - **Robert Collier** 
 
-![David Allen](/Images/Robert-Collier.webp)
+![Robert Collier](/Images/Robert-Collier.webp)
 
 **_25/07/2025:_** "You can know all the hard skills and business concepts, but if you don't have the right attitude, the rest doesn't matter. A great attitiude is key to getting ahead in work and in life." - **Edwardo Clemente** 
 
