@@ -6,6 +6,10 @@
 
 ![Tony Roberts](/Images/TonyRoberts.jpg)
 
+**_29/07/2025:_** - <b>Be Proactive</b> "The opposite of practice is reactive. A reactive person waits for opportunity, waits to be told, and waits until they are compelled to act. Proactive people seek opportunities, make plans and act first." - **Steven Covey** 
+
+![Tony Roberts](/Images/StevenCovey.jpg)
+
 **_27/07/2025:_** "A pessimist sees difficulty in every opportunity. An optimist sees the opportunity in every difficulty." - **Winston Churchill** 
 
 ![Tony Roberts](/Images/winstonChurchill.webp)
