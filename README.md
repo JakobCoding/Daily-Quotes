@@ -6,7 +6,7 @@
 
 ![Tony Roberts](/Images/TonyRoberts.jpg)
 
-**_29/07/2025:_** - <b>Be Proactive</b> "The opposite of practice is reactive. A reactive person waits for opportunity, waits to be told, and waits until they are compelled to act. Proactive people seek opportunities, make plans and act first." - **Steven Covey** 
+**_28/07/2025:_** - <b>Be Proactive</b> "The opposite of practice is reactive. A reactive person waits for opportunity, waits to be told, and waits until they are compelled to act. Proactive people seek opportunities, make plans and act first." - **Steven Covey** 
 
 ![Tony Roberts](/Images/StevenCovey.jpg)
 
