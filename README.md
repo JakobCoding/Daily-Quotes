@@ -2,6 +2,53 @@
 
 ![images](/Images/BookShelf.jpg)
 
+**_20/09/2025:_** "What you get by achieving your goals is not as important as what you become by achieving your goals." - **Henry David Thoreau**
+
+![Henry David Thoreau](/home/frosty/Pictures/Henry-David-Thoreau.jpg) 
+
+**_29/07/2025:_** "Knowledge is not power, Knowledge is only potential power. Action is power." - **Tony Roberts** 
+
+![Tony Roberts](/Images/TonyRoberts.jpg)
+
+**_28/07/2025:_** - <b>Be Proactive</b> "The opposite of practice is reactive. A reactive person waits for opportunity, waits to be told, and waits until they are compelled to act. Proactive people seek opportunities, make plans and act first." - **Steven Covey** 
+
+![Tony Roberts](/Images/StevenCovey.jpg)
+
+**_27/07/2025:_** "A pessimist sees difficulty in every opportunity. An optimist sees the opportunity in every difficulty." - **Winston Churchill** 
+
+![Tony Roberts](/Images/winstonChurchill.webp)
+
+
+**_26/07/2025:_** "Success is the sum of small efforts, repeated day in and day out." - **Robert Collier** 
+
+![Robert Collier](/Images/Robert-Collier.webp)
+
+**_25/07/2025:_** "You can know all the hard skills and business concepts, but if you don't have the right attitude, the rest doesn't matter. A great attitiude is key to getting ahead in work and in life." - **Edwardo Clemente** 
+
+**_24/07/2025:_** "If an action will take less than two minutes, it should be done at the moment it is defined." - **David Allen** 
+
+![David Allen](/Images/DavidAllen.jpg)
+
+**_23/07/2025:_** "The Journey of a thousand miles begins with one step." - **Lao Tzu** 
+
+![Lao Tzu](/Images/Lao%20Tzu.jpg)
+
+**_22/07/2025:_** "Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy." - **Dale Carnegie** 
+
+![Dale Carnegie](/Images/dalecarnegie.webp)
+
+**_21/07/2025:_** "Do not wait: the time will never be 'just right'. Start where you stand, and work with whatever tools you may have at your command and better tools will be found as you go along." - **Nepolean Hill** 
+
+![Napolean Hill](/Images/Who-Is-Napoleon-Hill.jpg)
+
+**_20/07/2025:_** "Acceptance of what has happened is the first step in overcoming the consequences of any misfortune." - **William James**
+
+![William James](/Images/WillamJames.jpg)
+
+**_05/07/2025:_** "Travel and tell no one, live a true love story and tell no one, live happily and tell no one, people ruin beautiful things." - **Kahlil gibran**
+
+![kahilgibran](/Images/kahil_gibran.jpg)
+
 **_04/07/2025:_** "Well done is better than well said." - **Benjamin Franklin**
 
 ![BenjaminFranklin](/Images/benjaminFranklin.jpeg)
@@ -79,3 +126,4 @@
 ![WackyAlbert](/Images/WackyAlbert.jpg)
 
 **_16/05/2025:_** "Life is like riding a bicycle. To keep your balance, you must keep moving - **Albert Einstein**
+
