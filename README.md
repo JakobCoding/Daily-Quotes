@@ -4,7 +4,7 @@
 
 **_20/09/2025:_** "What you get by achieving your goals is not as important as what you become by achieving your goals." - **Henry David Thoreau**
 
-![Henry David Thoreau](/home/frosty/Pictures/Henry-David-Thoreau.jpg) 
+![images](/Images/Henry-David-Thoreau.jpg) 
 
 **_29/07/2025:_** "Knowledge is not power, Knowledge is only potential power. Action is power." - **Tony Roberts** 
 
