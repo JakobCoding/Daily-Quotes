@@ -2,6 +2,10 @@
 
 ![images](/Images/BookShelf.jpg)
 
+**_20/09/2025:_** "We may encounter many defeats, but wemust not be defeated..." - **Maya Angelou**
+
+![images]() 
+
 **_20/09/2025:_** "What you get by achieving your goals is not as important as what you become by achieving your goals." - **Henry David Thoreau**
 
 ![images](/Images/Henry-David-Thoreau.jpg) 
