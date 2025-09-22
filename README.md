@@ -2,7 +2,11 @@
 
 ![images](/Images/BookShelf.jpg)
 
-**_20/09/2025:_** "We may encounter many defeats, but wemust not be defeated..." - **Maya Angelou**
+**_22/09/2025:_** "One of the best ways to make yourself happy is to make other people happy, One of the best ways to make other people happy yourself " - **Gretchen Rubin**
+
+![images](/Images/GretchinRubin.jpg) 
+
+**_21/09/2025:_** "We may encounter many defeats, but wemust not be defeated..." - **Maya Angelou**
 
 ![images](/Images/ANGELOU-superJumbo.jpg) 
 
