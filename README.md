@@ -2,7 +2,11 @@
 
 ![images](/Images/BookShelf.jpg)
 
-**_22/09/2025:_** "One of the best ways to make yourself happy is to make other people happy, One of the best ways to make other people happy yourself " - **Gretchen Rubin**
+**_23/09/2025:_** "Arise, Awake and Stop not until the goal is reached." - **Swami Vivekananda**
+
+![images](/Images/Swami_Vivekananda.jpg) 
+
+**_22/09/2025:_** "One of the best ways to make yourself happy is to make other people happy, One of the best ways to make other people happy yourself." - **Gretchen Rubin**
 
 ![images](/Images/GretchinRubin.jpg) 
 
