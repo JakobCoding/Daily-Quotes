@@ -10,7 +10,7 @@
 
 ![images](/Images/GretchinRubin.jpg) 
 
-**_21/09/2025:_** "We may encounter many defeats, but wemust not be defeated..." - **Maya Angelou**
+**_21/09/2025:_** "We may encounter many defeats, but we must not be defeated..." - **Maya Angelou**
 
 ![images](/Images/ANGELOU-superJumbo.jpg) 
 
