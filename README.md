@@ -2,6 +2,10 @@
 
 ![images](/Images/BookShelf.jpg)
 
+**_16/10/2025_** "You can't add days to your life, but you can add life to your days" - **Jake Chalmers**
+
+![image]()
+
 **_23/09/2025:_** "Arise, Awake and Stop not until the goal is reached." - **Swami Vivekananda**
 
 ![images](/Images/Swami_Vivekananda.jpg) 
