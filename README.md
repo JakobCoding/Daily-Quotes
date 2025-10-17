@@ -2,6 +2,10 @@
 
 ![images](/Images/BookShelf.jpg)
 
+**_16/10/2025_** "Today's accomplishments were yesterday's impossibilities" - **Robert H. Schuller**
+
+![image](/Images/JakeChalmers.png)
+
 **_16/10/2025_** "You can't add days to your life, but you can add life to your days" - **Jake Chalmers**
 
 ![image](/Images/JakeChalmers.png)
