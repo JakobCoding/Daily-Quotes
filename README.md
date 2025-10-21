@@ -4,6 +4,8 @@
 
 **_16/10/2025_** "Many of life's failures are people who did not realise how close they were to success when they gave up" - **Thomas A. Edison**
 
+![image](/Images/Thomas%20Edison.jpg)
+
 **_16/10/2025_** "Today's accomplishments were yesterday's impossibilities" - **Robert H. Schuller**
 
 ![image](/Images/Robert-H-Schuller.jpg)
