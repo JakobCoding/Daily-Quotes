@@ -4,6 +4,8 @@
 
 **_25/10/2025_** "Try your hardestw to be optimistic. It really does help. No matter what life throws at you, get in the habit of gently reminding yourself that you have so much to be thankful for. Living a life of gratitude will heal you." - **@Healinguide - Instagram**
 
+![image](/Images/Gratitude.png)
+
 **_16/10/2025_** "Many of life's failures are people who did not realise how close they were to success when they gave up" - **Thomas A. Edison**
 
 ![image](/Images/Thomas%20Edison.jpg)
