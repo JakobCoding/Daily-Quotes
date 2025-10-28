@@ -4,6 +4,8 @@
 
 **_29/10/2025_** "Someday is not a day of the week." **Denise Brannan-Nelson**
 
+![image](/Images/Someday.jpg)
+
 **_25/10/2025_** "Try your hardest to be optimistic. It really does help. No matter what life throws at you, get in the habit of gently reminding yourself that you have so much to be thankful for. Living a life of gratitude will heal you." - **@Healinguide - Instagram**
 
 ![image](/Images/Gratitude.png)
