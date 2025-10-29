@@ -2,6 +2,10 @@
 
 ![images](/Images/BookShelf.jpg)
 
+**_30/10/2025_** "You can choose courage, or you can choose comfort, but you cannot choose both." **Brene Brown**
+
+![image](/Images/Brene%20Brown.jpg)
+
 **_29/10/2025_** "Someday is not a day of the week." **Denise Brannan-Nelson**
 
 ![image](/Images/Someday.jpg)
