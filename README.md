@@ -2,6 +2,8 @@
 
 ![images](/Images/BookShelf.jpg)
 
+**_31/10/2025_** "What you are is what you have been. What you'll be is what you do now." **Buddha**
+
 **_31/10/2025_** "No Distractions, Just Action." **Jake Chalmers**
 
 ![Me](/Images/80's-Sovereign-Individual.jpeg)
