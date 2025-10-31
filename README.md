@@ -2,6 +2,8 @@
 
 ![images](/Images/BookShelf.jpg)
 
+**_31/10/2025_** "No Distractions, Just Action." **Jake Chalmers**
+
 **_30/10/2025_** "You can choose courage, or you can choose comfort, but you cannot choose both." **Brene Brown**
 
 ![image](/Images/Brene%20Brown.jpg)
