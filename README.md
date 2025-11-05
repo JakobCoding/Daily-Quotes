@@ -2,6 +2,8 @@
 
 ![images](/Images/BookShelf.jpg)
 
+**_31/10/2025_** "Distraction at it's core is confusion about what really matters." - **Curt Steinhorst**
+
 **_31/10/2025_** "What you are is what you have been. What you'll be is what you do now." **Buddha**
 
 ![image](/Images/Buddha.jpg)
