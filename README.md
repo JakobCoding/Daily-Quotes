@@ -4,6 +4,8 @@
 
 **_31/10/2025_** "To truly cherish the things that are important to you, you must first discard those that have outlived their purpose." - **Marie Kondo**
 
+![image](Images/marie-kondo.jpg)
+
 **_31/10/2025_** "Distraction at it's core is confusion about what really matters." - **Curt Steinhorst**
 
 ![image](/Images/Curt-Steinhorst.jpg)
