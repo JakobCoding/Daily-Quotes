@@ -2,7 +2,7 @@
 
 ![images](/Images/BookShelf.jpg)
 
-**_31/10/2025_** "Small daily habits add up, trust the process." - **Jake Chalmers**
+**_10/11/2025_** "Small daily habits add up, trust the process." - **Jake Chalmers**
 
 ![image](Images/medievaljake.png)
 
