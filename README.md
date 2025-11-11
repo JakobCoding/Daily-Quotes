@@ -2,6 +2,10 @@
 
 ![images](/Images/BookShelf.jpg)
 
+**_11/11/2025_** - "Work out your own salvation. Do not depend on others."- **Buddha**
+
+![image](Images/medievaljake.png)
+
 **_10/11/2025_** "Small daily habits add up, trust the process." - **Jake Chalmers**
 
 ![image](Images/medievaljake.png)
