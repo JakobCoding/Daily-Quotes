@@ -2,6 +2,11 @@
 
 ![images](/Images/BookShelf.jpg)
 
+**_13/11/2025_** - "Show me, Don't tell me."- **Unknown**
+
+![image](Images/buddha-in-leaves.jpg)
+
+
 **_11/11/2025_** - "Work out your own salvation. Do not depend on others."- **Buddha**
 
 ![image](Images/buddha-in-leaves.jpg)
