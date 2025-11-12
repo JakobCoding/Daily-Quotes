@@ -2,9 +2,9 @@
 
 ![images](/Images/BookShelf.jpg)
 
-**_13/11/2025_** - "Show me, Don't tell me."- **Unknown**
+**_13/11/2025_** - "Show me, Don't tell me."- **Eric Schmidt**
 
-![image](Images/buddha-in-leaves.jpg)
+![image](/Images/show-me-eric-schmidt.jpg)
 
 
 **_11/11/2025_** - "Work out your own salvation. Do not depend on others."- **Buddha**
