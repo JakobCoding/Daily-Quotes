@@ -2,7 +2,7 @@
 
 ![images](/Images/BookShelf.jpg)
 
-**_13/11/2025_** - "Show me, Don't tell me."- **Eric Schmidt**
+**_13/11/2025_** - "Don't tell me, show me."- **Eric Schmidt**
 
 ![image](/Images/show-me-eric-schmidt.jpg)
 
